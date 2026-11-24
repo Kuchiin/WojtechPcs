@@ -1,0 +1,18 @@
+[
+  {
+    "name": "PROMO10",
+    "discount": 10
+  },
+  {
+    "name": "STUDENT15",
+    "discount": 15
+  },
+  {
+    "name": "WOJTECH20",
+    "discount": 20
+  },
+  {
+    "name": "PROF_MIOTK",
+    "discount": 99
+  }
+]
